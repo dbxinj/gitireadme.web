@@ -3,3 +3,4 @@ server: http://api.gitiread.me
 articles:
   - gitireadme/guide
   - gitireadme-testA/test
+  - tensorflow/tensorflow
